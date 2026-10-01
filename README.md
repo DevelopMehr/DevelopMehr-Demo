@@ -28,4 +28,4 @@
 ## 📫 Connect
 
 [![LinkedIn]https://www.linkedin.com/in/mehr-hussain-ai/
-[![GitHub] https://github.com/MehrDeveloper/MehrDeveloper
+[![GitHub] https://github.com/DevelopMehr
